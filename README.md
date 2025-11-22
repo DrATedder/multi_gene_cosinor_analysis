@@ -67,6 +67,8 @@ This script:
 - **Cosinor summary table** (`cosinor_summary.csv`)
 - Console output containing parameter estimates for each gene
 
+**Note**. Each figure will be produced on the same Y-axis scale to ensure meaningful comparison.
+
 ---
 
 ## Input Data Format
