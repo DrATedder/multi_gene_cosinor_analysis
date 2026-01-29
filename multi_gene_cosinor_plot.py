@@ -5,16 +5,18 @@ from scipy.optimize import curve_fit
 from scipy.stats import f
 import glob
 import os
+import sys
 
 # ===============================================================
 # SETTINGS
 # ===============================================================
 
-folder = ""                   # folder with gene .tsv files
-show_points = True            # show raw data
-period = 24                   # circadian period
-save_summary = True           # save cosinor summary CSV
-save_figures = True           # export each plot as PDF
+import sys
+folder = sys.argv[1] if len(sys.argv) > 1 else ""                  # folder with gene .tsv files
+show_points = True                                                 # show raw data
+period = 24                                                        # circadian period
+save_summary = True                                                # save cosinor summary CSV
+save_figures = True                                                # export each plot as PDF
 
 # ===============================================================
 # FIGURE STYLE — publication-quality grayscale
