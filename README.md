@@ -144,6 +144,12 @@ pip install "numpy<2"
 ```bash
 python3 multi_gene_cosinor_plot.py
 ```
+Alternatively, you can leave the `folder` variable uncheanged in the script (i.e. ignore step 2 abve), and simply give the destination folder when calling the script:
+```bash
+python3 multi_gene_cosinor_plot.py /path/to/target_directory/
+```
+
+
 The script will automatically:
 
 * Fit cosinor models for each gene
