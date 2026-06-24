@@ -128,7 +128,7 @@ pip3 install numpy pandas scipy matplotlib
 if `Numpy` version causes issues:
 
 ```bash
-pip install "numpy<2"
+pip3 install "numpy<2"
 ```
 
 ---
@@ -144,7 +144,7 @@ pip install "numpy<2"
 ```bash
 python3 multi_gene_cosinor_plot.py
 ```
-Alternatively, you can leave the `folder` variable uncheanged in the script (i.e. ignore step 2 abve), and simply give the destination folder when calling the script:
+Alternatively, you can leave the `folder` variable unchanged in the script (i.e. ignore step 2 above), and simply give the destination folder when calling the script:
 ```bash
 python3 multi_gene_cosinor_plot.py /path/to/target_directory/
 ```
