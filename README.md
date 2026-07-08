@@ -4,7 +4,7 @@
 [`cosinor_batch_by_tissue.py`](https://github.com/DrATedder/multi_gene_cosinor_analysis/blob/main/README.md#`cosinor_batch_by_tissue.py`)
 [`cosinor_bootstrap_FDR.py`](https://github.com/DrATedder/multi_gene_cosinor_analysis/blob/main/README.md#`cosinor_bootstrap_FDR.py)
 
-## `multi_gene_cosinor_plot.py`
+# `multi_gene_cosinor_plot.py`
 
 `multi_gene_cosinor_plot.py` performs batch 24-hour single-component cosinor analysis for multiple genes from rhythmic expression data. It fits a cosinor model to each gene, computes rhythm parameters (MESOR, amplitude, acrophase, R²), performs a zero-amplitude (F-test) to assess rhythmic significance, and generates publication-quality grayscale figures.
 
@@ -224,5 +224,5 @@ Nelson W., Tong Y.L., Lee J.K., Halberg F. (1979). Methods for cosinor-rhythmome
 
 Refinetti R., Cornélissen G., Halberg F. (2007). Procedures for numerical analysis of circadian rhythms. Biological Rhythm Research, 38(4), 275–325.
 
-## `cosinor_bootstrap_FDR.py`
-## `cosinor_batch_by_tissue.py`
+# `cosinor_bootstrap_FDR.py`
+# `cosinor_batch_by_tissue.py`
