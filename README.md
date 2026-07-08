@@ -85,9 +85,9 @@ Each gene must be in a `.tsv` file with the following columns:
 
 Example files:
 
-Bmal1.tsv
-Per2.tsv
-Cry1.tsv
+* Bmal1.tsv
+* Per2.tsv
+* Cry1.tsv
 
 
 **Missing values** are allowed and automatically handled.
