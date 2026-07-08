@@ -1,6 +1,6 @@
 # Multi-gene Cosinor Analysis & Plotting
 
-* [`multi_gene_cosinor_plot.py`](https://github.com/DrATedder/multi_gene_cosinor_analysis/blob/main/README.md#`multi_gene_cosinor_plot.py`)
+* [`multi_gene_cosinor_plot.py`](https://github.com/DrATedder/multi_gene_cosinor_analysis/blob/main/README.md#multi_gene_cosinor_plotpy)
 * [`cosinor_batch_by_tissue.py`](https://github.com/DrATedder/multi_gene_cosinor_analysis/blob/main/README.md#cosinor_batch_by_tissuepy)
 * [`cosinor_bootstrap_FDR.py`](https://github.com/DrATedder/multi_gene_cosinor_analysis/blob/main/README.md#cosinor_bootstrap_fdrpy)
 
