@@ -42,10 +42,10 @@ Accepted time columns:
 
 Accepted expression columns:
 
-**Note.** `multi_gene_cosinor_plot.py` will only accept `expression ratio (goi/hk)`. Please see the example data if needed.
-
 - `expression ratio (goi/hk)`
 - `fold change (goi/hk)`
+
+**Note.** `multi_gene_cosinor_plot.py` will only accept `expression ratio (goi/hk)`. Please see the example data if needed.
 
 Column matching is case-insensitive where applicable.
 
