@@ -41,6 +41,7 @@ Accepted time columns:
 - `Time`
 
 Accepted expression columns:
+
 **Note.** `multi_gene_cosinor_plot.py` will only accept `expression ratio (goi/hk)`. Please see the example data if needed.
 
 - `expression ratio (goi/hk)`
