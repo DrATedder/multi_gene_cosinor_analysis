@@ -41,6 +41,7 @@ Accepted time columns:
 - `Time`
 
 Accepted expression columns:
+**Note.** `multi_gene_cosinor_plot.py` will only accept `expression ratio (goi/hk)`. Please see the example data if needed.
 
 - `expression ratio (goi/hk)`
 - `fold change (goi/hk)`
@@ -161,9 +162,19 @@ Performs independent cosinor analysis across multiple tissues for multiple genes
 Circadian_Gene_Expression_Data/
 
 ├── Liver_data/
+│   ├── Bmal1_expression.tsv
+│   ├── Per2_expression.tsv
+│   └── Cry1_expression.tsv
+│
 ├── Heart_data/
+│   ├── Bmal1_expression.tsv
+│   ├── Per2_expression.tsv
+│   └── Cry1_expression.tsv
+│
 ├── Kidney_data/
-└── ...
+│   ├── Bmal1_expression.tsv
+│   ├── Per2_expression.tsv
+│   └── Cry1_expression.tsv
 ```
 
 Each tissue directory contains one `.tsv` file per gene.
