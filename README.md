@@ -4,7 +4,7 @@ Python scripts for batch circadian cosinor analysis of rhythmic gene expression 
 
 | Script | Description |
 |--------|-------------|
-| [`multi_gene_cosinor_plot.py`](#multi_gene_cosinor_plotpy) | Batch cosinor analysis and publication-quality plots for multiple genes. |
+| [`multi_gene_cosinor_plot.py`](#multi_gene_cosinor_plotpy) | Batch cosinor analysis and publication-quality plots for multiple genes (single tissue or tissue independent). |
 | [`cosinor_batch_by_tissue.py`](#cosinor_batch_by_tissuepy) | Multi-tissue cosinor analysis with FDR correction, phase comparisons and clustering. |
 | [`cosinor_bootstrap_FDR.py`](#cosinor_bootstrap_fdrpy) | Bootstrap-based cosinor analysis with empirical significance testing and exploratory visualisations. |
 
